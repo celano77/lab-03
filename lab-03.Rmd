@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Take a sad plot and make it better"
-author: "User1, Nor Danish raziq, User3 and User4 - Team Name"
+author: "Caio Celano, Nor Danish Raziq, Grace Tait and User4 - I Thought This Was A Stats Course"
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -12,7 +12,6 @@ library(tidyverse)
 library(ggplot2)
 ```
 
-
 # Questioning data visualisations
 
 ## Image 1
@@ -21,11 +20,7 @@ library(ggplot2)
 knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
 
-_Write your comments about image 1 below_
-
-
-
-
+*Write your comments about image 1 below*
 
 ## Image 2
 
@@ -33,10 +28,7 @@ _Write your comments about image 1 below_
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
-_Write your comments about image 2 below_
-
-
-
+*Write your comments about image 2 below*
 
 ## Image 3
 
@@ -44,10 +36,7 @@ _Write your comments about image 2 below_
 knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
-_Write your comments about image 3 below_
-
-
-
+*Write your comments about image 3 below*
 
 ## Image 4
 
@@ -55,11 +44,7 @@ _Write your comments about image 3 below_
 knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
-_Write your comments about image 4 below_
-
-
-
-
+*Write your comments about image 4 below*
 
 # Exercises
 
@@ -67,19 +52,13 @@ _Write your comments about image 4 below_
 staff <- read_csv("data/instructional-staff.csv")
 ```
 
-
 ## Exercise 1
 
 What is the difference between *wide format* data and *long format* data?
 
-
 Is the format `staff` data *wide* or *long*?
 
-
 How many observations are there in the data set?
-
-
-
 
 ## Exercise 2
 
@@ -94,7 +73,6 @@ How many observations are there in the data set?
 #    )
 
 ```
-
 
 ## Exercise 3
 
@@ -123,7 +101,6 @@ How many observations are there in the data set?
 #  mutate(year = ______(year))
 ```
 
-
 ```{r working-line-plot}
 # Write your code for Exercise 5 here
 
@@ -143,13 +120,12 @@ How many observations are there in the data set?
 
 ## Exercise 7
 
-_Write below your ideas for adapting the line plot_
+*Write below your ideas for adapting the line plot*
 
-* Idea 1
-* Idea 2
-* Idea 3
-* ...
-
+-   Idea 1
+-   Idea 2
+-   Idea 3
+-   ...
 
 ## Exercise 8
 
@@ -159,4 +135,3 @@ _Write below your ideas for adapting the line plot_
 
 
 ```
-

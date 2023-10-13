@@ -28,7 +28,7 @@ The bars are not proportional to the actual number of speakers, which doesn't al
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
-*Write your comments about image 2 below*
+The segments of the pie chart aren't uniform. The information portrayed in the pie chart is not straightforward such as, we do not know the percentages of the data and the colours may or may not present different densities as it is not clear. A bar chart would be more suitable as it would portray the information more clearly.
 
 ## Image 3
 

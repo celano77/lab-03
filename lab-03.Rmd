@@ -44,7 +44,7 @@ There is not a key to tell us which colour means and what the opacity or size me
 knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
-*Write your comments about image 4 below*
+The graph isnt very clear as all the colours are being overlapped and the axis are labelled incorrectly as well. 
 
 # Exercises
 

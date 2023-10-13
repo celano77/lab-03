@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Take a sad plot and make it better"
-author: "User1, Nor Danish Raziq, User3 and User4 - Team Name"
+author: "User1, Nor Danish raziq, User3 and User4 - Team Name"
 date: "`r Sys.Date()`"
 output: html_document
 ---

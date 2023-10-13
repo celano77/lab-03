@@ -20,7 +20,7 @@ library(ggplot2)
 knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
 
-*Write your comments about image 1 below*
+The bars are not proportional to the actual number of speakers, which doesn't allow for proper comparison between their sizes. Although it may seem that there is a small difference in numbers, it is actually huge.
 
 ## Image 2
 
@@ -28,7 +28,7 @@ knitr::include_graphics("img/Speaking-the-world.jpg")
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
-*Write your comments about image 2 below*
+The segments of the pie chart aren't uniform. The information portrayed in the pie chart is not straightforward such as, we do not know the percentages of the data and the colours may or may not present different densities as it is not clear. A bar chart would be more suitable as it would portray the information more clearly.
 
 ## Image 3
 
@@ -36,7 +36,7 @@ knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
-*Write your comments about image 3 below*
+There is not a key to tell us which colour means and what the opacity or size means. A lot of the colours overlap in the centre which means that we can not identify which colours there are. There are also so many different observations that the colours are very similar so the scatter graph is not clear.
 
 ## Image 4
 

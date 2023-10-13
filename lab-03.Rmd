@@ -36,7 +36,7 @@ The segments of the pie chart aren't uniform. The information portrayed in the p
 knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
-*Write your comments about image 3 below*
+There is not a key to tell us which colour means and what the opacity or size means. A lot of the colours overlap in the centre which means that we can not identify which colours there are. There are also so many different observations that the colours are very similar so the scatter graph is not clear.
 
 ## Image 4
 

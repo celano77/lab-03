@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Take a sad plot and make it better"
-author: "Grace Tait, User2, User3 and User4 - I Thought This Was A Stats Course"
+author: "Caio Celano, Nor Danish Raziq, Grace Tait and User4 - I Thought This Was A Stats Course"
 date: "`r Sys.Date()`"
 output: html_document
 ---
